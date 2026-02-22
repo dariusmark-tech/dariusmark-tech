@@ -381,19 +381,7 @@ learning_roadmap = {
 ```
 
 <br/>
-
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
-  </picture>
-</div>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
