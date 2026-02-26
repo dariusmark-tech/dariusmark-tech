@@ -310,8 +310,6 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dariusmark-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-  &nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusmark-tech&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
