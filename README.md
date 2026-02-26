@@ -310,21 +310,21 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=darthecodemaster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dariusmark-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthecodemaster&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusmark-tech&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=darthecodemaster&theme=tokyonight&hide_border=true"/>
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=dariusmark-tech&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=darthecodemaster&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/>
+  <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=dariusmark-tech&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/>
 </div>
 
 <br/>
