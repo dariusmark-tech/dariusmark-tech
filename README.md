@@ -329,18 +329,6 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 
 <br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darthecodemaster&theme=buddhism&column=4&margin-w=10&margin-h=10&row=2"/>
-</div>
-
-<br/>
-
----
-
 ## 📺 YouTube &nbsp;·&nbsp; ✍️ Blog
 
 <div align="center">
