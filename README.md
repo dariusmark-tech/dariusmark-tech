@@ -373,7 +373,6 @@ learning_roadmap = {
 
 <div align="center">
 
-*"The goal is to turn data into information, and information into insight."*
 
 <br/>
 
