@@ -366,15 +366,10 @@ learning_roadmap = {
 }
 ```
 
-<br/>
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=darthecodemaster&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
 
