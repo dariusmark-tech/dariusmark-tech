@@ -49,8 +49,6 @@ class DariusCaparro:
     automation = ["n8n", "Zapier", "OpenAI API", "Google Cloud APIs",
                   "Whisper STT", "OCR Pipelines", "REST APIs", "Webhooks"]
     tools      = ["Git/GitHub", "Figma", "Adobe XD", "PowerBI", "Jupyter", "VS Code"]
-
-    currently  = "Building AI automation pipelines & exploring LLMs and deep learning"
 ```
 
 <br/>
