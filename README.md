@@ -39,7 +39,7 @@
 class DariusCaparro:
     name       = "Darius Mark Roy S. Caparro"
     role       = ["Data Scientist", "ML Engineer", "Automation Engineer"]
-    education  = "BS Applied Physics w/ Computer Science Emphasis"
+    education  = "3rd yr BS Applied Physics w/ Computer Science Emphasis"
     location   = "Pasig, Philippines 🇵🇭"
     email      = "dariusmarkcaparro@gmail.com"
 
@@ -53,7 +53,6 @@ class DariusCaparro:
     tools      = ["Git/GitHub", "Figma", "Adobe XD", "PowerBI", "Jupyter", "VS Code"]
 
     currently  = "Building AI automation pipelines & exploring LLMs and deep learning"
-    open_to    = "ML Engineering, Data Science, AI Automation, and impactful software roles"
 ```
 
 <br/>
@@ -349,22 +348,6 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 | 🎓 Certificate Reviews | Honest course breakdowns |
 | 🌐 Web Dev Builds | React · JavaScript projects |
 
-<br/>
-
----
-
-## 🌱 Roadmap
-
-```python
-learning_roadmap = {
-    "deep_learning"    : ["CNNs", "Transformers", "LLMs", "Diffusion Models"],
-    "data_engineering" : ["SQL optimization", "Pipeline design", "AWS / GCP Cloud"],
-    "automation"       : ["Advanced n8n flows", "MCP integrations", "AI Agent orchestration"],
-    "ongoing_courses"  : ["HarvardX CS50x", "CS50 Web — Python & JavaScript"],
-    "content_creation" : ["YouTube tutorials", "Technical blog", "Open-source contributions"],
-    "next_milestone"   : "Deploy a production-ready ML model + full AI automation pipeline 🚀"
-}
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
