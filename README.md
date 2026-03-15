@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Data Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Experience-1--2%20Years-0891b2?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 
 <br/><br/>
