@@ -10,8 +10,6 @@
 
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Experience-1--2%20Years-0891b2?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-16a34a?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/Certificates-10%20Earned-f59e0b?style=for-the-badge&logo=acclaim&logoColor=white"/>
 
 <br/><br/>
 
