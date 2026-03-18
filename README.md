@@ -322,28 +322,6 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 
 <br/>
 
-## 📺 YouTube &nbsp;·&nbsp; ✍️ Blog
-
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Blog-Read%20Articles-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-</div>
-
-<br/>
-
-> 🎬 Sharing content on **Data Science**, **ML**, **Automation**, and my learning journey. Subscribe to follow along!
-
-| Content | Topics |
-|:---|:---|
-| 📊 Data Science Tutorials | Python · Pandas · EDA walkthroughs |
-| 🤖 ML Concepts | From theory to working code |
-| ⚡ Automation Builds | n8n workflows · API integrations |
-| 🎓 Certificate Reviews | Honest course breakdowns |
-| 🌐 Web Dev Builds | React · JavaScript projects |
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
