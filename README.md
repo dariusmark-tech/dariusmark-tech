@@ -301,7 +301,32 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 <br/>
 
 ---
+## 📈 GitHub Analytics
 
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dariusmark-tech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=5,000+ Contributions"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusmark-tech&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=dariusmark-tech&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=dariusmark-tech&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&custom_title=Darius's%20Contribution%20Graph%20(5000+%20Contributions)"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=darthecodemaster&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
