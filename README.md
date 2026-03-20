@@ -302,11 +302,6 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 
 ---
 
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusmark-tech&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/> </div>
-<div align="center"> <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=dariusmark-tech&theme=tokyonight&hide_border=true"/> </div>
-<div align="center"> <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=dariusmark-tech&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/> </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/><div align="center"><img src="https://komarev.com/ghpvc/?username=darthecodemaster&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/></div> ```
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
