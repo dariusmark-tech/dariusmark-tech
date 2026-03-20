@@ -299,19 +299,10 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 </div>
 
 <br/>
-
----
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dariusmark-tech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusmark-tech&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <b>🏆 5,000+ GitHub Contributions</b>
 </div>
 
 <br/>
@@ -322,8 +313,25 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 
 <br/>
 
+<!-- Contribution Stats Card -->
 <div align="center">
-  <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=dariusmark-tech&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dariusmark-tech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_title=true"/>
+</div>
+
+<br/>
+
+<!-- Custom 5000+ Contributions Banner -->
+<div align="center">
+  <img src="https://img.shields.io/badge/5000+-CONTRIBUTIONS-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph with fallback option -->
+<div align="center">
+  <a href="https://github.com/dariusmark-tech">
+    <img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=dariusmark-tech&theme=react-dark&hide_border=true&area=true&area_color=7c3aed" alt="GitHub Activity Graph"/>
+  </a>
 </div>
 
 <br/>
@@ -331,9 +339,8 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=darthecodemaster&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=dariusmark-tech&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
 </div>
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
