@@ -37,7 +37,7 @@
 class DariusCaparro:
     name       = "Darius Mark Roy S. Caparro"
     role       = ["Data Scientist", "ML Engineer", "Automation Engineer"]
-    education  = "3rd yr BS Applied Physics w/ Computer Science Emphasis"
+    education  = "4th yr BS Applied Physics w/ Computer Science Emphasis"
     location   = "Pasig, Philippines 🇵🇭"
     email      = "dariusmarkcaparro@gmail.com"
 
